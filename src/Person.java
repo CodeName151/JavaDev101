@@ -1,2 +1,3 @@
-public class Person cl{
+public class Person {
+    private String name;
 }
